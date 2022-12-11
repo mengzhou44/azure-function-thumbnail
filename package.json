@@ -1,0 +1,14 @@
+{
+  "name": "functions-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.6.0",
+    "jimp": "^0.2.28"
+  },
+  "devDependencies": {}
+}

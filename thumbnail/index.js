@@ -1,7 +1,7 @@
 const Jimp = require('jimp');
 const stream = require('stream');
 const {
-    BlockBlobClient, ContainerClient
+    BlockBlobClient
 } = require("@azure/storage-blob");
 
 const ONE_MEGABYTE = 1024 * 1024;
